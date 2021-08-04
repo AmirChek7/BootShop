@@ -1,0 +1,56 @@
+{
+  "products": [
+    {
+      "title": "NIke",
+      "description": "Мужские кроссовки",
+      "price": "800",
+      "author": "NIke C",
+      "discount": "0",
+      "phone": "0777324883",
+      "category": "Easy",
+      "image": "https://krostore.ru/images/product/l/4835-nike-lunar-force-1-duckboot-2017-012-e5d062.jpg",
+      "countInStock": "100000",
+      "storeAddress": "NIke",
+      "id": 1
+    },
+    {
+      "title": "Nike SportSwear",
+      "description": "Женская куртка",
+      "price": "4000",
+      "author": "Nike",
+      "discount": "30%",
+      "phone": "0777324883",
+      "category": "легкие",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/03ae2fbc-db5e-477f-812f-b5db857594d8/%D0%BA%D1%83%D1%80%D1%82%D0%BA%D0%B0-sportswear-QtmWXj.png",
+      "countInStock": "100002",
+      "storeAddress": "NIke",
+      "id": 2
+    },
+    {
+      "title": "Nike SportSwear",
+      "description": "женские брюки",
+      "price": "5000",
+      "author": "NIke",
+      "discount": "0%",
+      "phone": "0777324883",
+      "category": "легкие",
+      "image": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/22eb8a59-6c47-4dbb-892f-f49878b7c8d2/%D0%B1%D1%80%D1%8E%D0%BA%D0%B8-sportswear-2jN9TC.png",
+      "countInStock": "1000000",
+      "storeAddress": "Nike",
+      "id": 3
+    },
+    {
+      "title": "Nike CR7",
+      "description": "for football ",
+      "price": "9000",
+      "author": "Nike",
+      "discount": "10%",
+      "phone": "0777324883",
+      "category": "gold",
+      "image": "https://www.latinisport.it/wp-content/uploads/2017/07/6941-nike-magista-onda-ii-df-fg-arancione-laser-nero-bianco-volt-1-m.jpg",
+      "countInStock": "3498020",
+      "storeAddress": "Nike",
+      "id": 4
+    }
+  ]
+}
